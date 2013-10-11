@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Fix jQuery Cookie Url Bug
- * Plugin URI:
+ * Plugin URI: https://github.com/rutkoski/wp_jquery_cookie_url_fix
  * Description: On some servers, the file jquery.cookie.min.js triggers a Mod Security issue in the form of WEB_ATTACK/XSS and the server blocks the script, causing a 406 NOT ACCEPTABLE http status.
  * Version: 0.1
  * Author: Rodrigo Rutkoski Rodrigues <rutkoski@gmail.com>
